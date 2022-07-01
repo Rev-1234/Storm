@@ -1,8 +1,8 @@
---[[Storm on top]]
+--[Storm on top skids]--
 
-
+loadstring(game:HttpGet('https://pastebin.com/raw/zjZSs044'))() --user 001
+loadstring(game:HttpGet('https://pastebin.com/raw/zjZSs044'))() --Emojis
 local UILibrary = loadstring(game:HttpGet("https://pastebin.com/raw/V1ca2q9s"))()
-loadstring(game:HttpGet('https://pastebin.com/raw/4q6q1rnG'))()
 
 
 game.StarterGui:SetCore("SendNotification",  {
@@ -2373,3 +2373,7 @@ local AnimationsButton = AnimationsPage.AddButton("Mage", function()
 	Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=707829716"
 	game.Players.LocalPlayer.Character.Humanoid.Jump = true
 end)
+
+
+--Stormm
+loadstring(game:HttpGet('https://pastebin.com/raw/zjZSs044'))() -- Emoji whitelist
